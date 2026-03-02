@@ -5,7 +5,8 @@ repository to save the study about typescript
 
 ## study-files:
 
-- [x] assertion.ts - Study about how to assert a data type in typescript;
+- [x] advanced-types.ts - study about advanced data types and structure of types;
+- [x] assertion.ts - Study about how to assert a data type;
 - [x] classes.ts - Study about classes and the modifications of it in ts;
 - [x] combining-types.ts - Study about the form to combine data types in a data;
 - [x] data-types.ts - Study about the basics data types;
