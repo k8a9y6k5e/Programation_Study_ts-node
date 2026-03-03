@@ -5,6 +5,14 @@ repository to save the study about typescript
 
 ## study-files:
 
+### modules:
+
+- [x] modules-ambient.d.ts - File to apply the ambient module code;
+- [x] modules-augmentation.ts - File to apply the module augmentation function/syntax;
+- [x] modules-global.d.ts - File to apply syntax to edit the global scope;
+- [x] modules-tests.ts - File to test the code of the modules.ts;
+- [x] modules.ts - Study about the modules use and the new module methods;
+
 - [x] advanced-types.ts - study about advanced data types and structure of types;
 - [x] assertion.ts - Study about how to assert a data type;
 - [x] classes.ts - Study about classes and the modifications of it in ts;
