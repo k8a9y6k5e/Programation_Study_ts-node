@@ -29,4 +29,4 @@ repository to save the study about typescript
 
 - [x] work-with-files.ts - Study about the use of commands to use files inside code, like fs, or cwd;
 - [x] assertion-errors.ts - Study about the use of the assert command to errors and how it work;
-- [ ] event.ts - Study about the use of events emitter and listeners;
+- [x] event.ts - Study about the use of events emitter and listeners;
